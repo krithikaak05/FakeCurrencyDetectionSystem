@@ -4,6 +4,8 @@ Counterfeit Currency Detection System
 </div>
 <br>
 
+:innocent: Motivation
+
 The Counterfeit Currency Detection System aims to address the increasing issue of fake currency circulation. Counterfeit money can have severe consequences on economies and individuals.
 This system is motivated by the need to implement an intelligent solution that uses advanced algorithms to identify counterfeit banknotes accurately.
 
