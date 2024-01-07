@@ -17,9 +17,6 @@ Android Studio
 
 
 :bulb: Working
-
-The program operates as follows:
-
 The program operates as follows:
 
 Image Upload: Users can easily upload an image of a banknote through the system's intuitive web interface or the dedicated Android app.
