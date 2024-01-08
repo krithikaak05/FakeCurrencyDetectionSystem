@@ -11,10 +11,10 @@ This system is motivated by the need to implement an intelligent solution that u
 
 :warning: TechStack/Framework used
 
-*Python
-*Juypter Notebook
-*Android Studio
-
+* Python
+* Android Studio
+* Flutter
+* Jupyter Notebook
 
 :bulb: Working
 The program operates as follows:
