@@ -11,11 +11,9 @@ This system is motivated by the need to implement an intelligent solution that u
 
 :warning: TechStack/Framework used
 
-Python
-Juypter Notebook
-Keras
-Tensorflow
-Android Studio
+*Python
+*Juypter Notebook
+*Android Studio
 
 
 :bulb: Working
